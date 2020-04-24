@@ -1,0 +1,45 @@
+{
+        "id": "76080032",
+        "name": "ZW - Unicorn Spear",
+        "type": "Effect Monster",
+        "desc": "You can target 1 \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1900 ATK. If the equipped monster battles an opponent's monster, the opponent's monster's effect is negated during the Battle Phase only. You can only control 1 \"ZW - Unicorn Spear\".",
+        "atk": "1900",
+        "def": "0",
+        "level": "4",
+        "race": "Beast",
+        "attribute": "LIGHT",
+        "archetype": "Utopia",
+        "card_sets": [
+            {
+                "set_name": "Order of Chaos",
+                "set_code": "ORCS-EN005",
+                "set_rarity": "Rare",
+                "set_price": "1.04"
+            },
+            {
+                "set_name": "Star Pack 2014",
+                "set_code": "SP14-EN004",
+                "set_rarity": "Starfoil Rare",
+                "set_price": "1.23"
+            },
+            {
+                "set_name": "Super Starter: V for Victory",
+                "set_code": "YS13-EN018",
+                "set_rarity": "Common",
+                "set_price": "1.09"
+            }
+        ],
+        "card_images": [
+            {
+                "id": "76080032",
+                "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/76080032.jpg",
+                "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/76080032.jpg"
+            }
+        ],
+        "card_prices": {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00"
+        }
+    }
